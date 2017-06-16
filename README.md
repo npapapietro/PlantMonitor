@@ -1,10 +1,6 @@
 # PlantMonitor
 
-###### This is a simple WPF application to monitor different
-types of plants as you cultivate them. So far this allows the
-creation of several "buckets" where names, dates and trimming 
-information can be entered and stored. The save/load feature
- exports to JSON format. The display is mouse enabled.
+###### This is a simple WPF application to monitor different types of plants as you cultivate them. So far this allows the creation of several "buckets" where names, dates and trimming information can be entered and stored. The save/load feature exports to JSON format. The display is mouse enabled.
 
 
 ## Task List
